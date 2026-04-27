@@ -1,0 +1,27 @@
+client1:
+  environment: dev
+
+  app1_user: 
+  app1_pass: 
+  
+  report_format: html
+  report_location: ./reports
+  
+  test_suites: debug
+  test_data_path: ./test_data/
+  
+  browser: chrome
+  
+client2:
+  environment: dev
+
+  app1_user: 
+  app1_pass: 
+  
+  report_format: html
+  report_location: ./reports
+  
+  test_suites: debug
+  test_data_path: ./test_data/
+
+  browser: chrome

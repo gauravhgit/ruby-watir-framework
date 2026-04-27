@@ -1,0 +1,2 @@
+spec/sample_test_folder/sample_test_spec1
+spec/sample_test_folder/sample_test_spec2
